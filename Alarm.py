@@ -1,7 +1,7 @@
 """
 Program: 	Cooper's Pi Alarm - The Software
 Version: 	0.0.2
-Author:		JoshuaCooper
+Author:		Joshua Cooper
 """
 #Setup
 import RPi.GPIO as GPIO
